@@ -2,7 +2,9 @@
 
 MASTER REPO LINK - https://github.com/harikishanm96/MASTER
 
-custom_resnet.py: Model file for Assignment 10
+Master repo contains below files - 
+
+custom_resnet.py: Model implementation for Assignment 10
 
 data_loader.py: Loading and preprocessing data for machine learning model. Includes functions/classes for reading datasets, applying transformations, and creating data loaders.
 
